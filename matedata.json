@@ -1,0 +1,8 @@
+{
+  "name": "Festiva AI - Celebration & Event Planner",
+  "description": "An intelligent generative AI planner for celebrations and events, featuring instant blueprints, run of show timelines, budget calculators, custom menus, and crisis contingency solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
